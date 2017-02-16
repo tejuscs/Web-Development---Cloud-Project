@@ -1,0 +1,123 @@
+#link_bar a {
+	padding:15px; 	
+	font-weight:bold; 	
+	position: relative;
+	
+	   
+}
+
+#link_bar a:link {
+	color: white;
+	background-color: rgb(243,17,19);
+	text-decoration: none;
+	opacity: 0.8;
+}
+
+#link_bar a:visited {
+	color: white;
+	background-color: rgb(243,17,19);
+	text-decoration: none;
+	opacity: 0.8;
+}
+
+#link_bar a:hover {
+	background-color: black;
+}
+#arsenal {
+width:155px;
+height:115px;
+float: left;
+}
+#team {
+	width:630px;
+	height:340px;
+	/*position: absolute;*/
+	left: 300px;
+	top: 220px;
+}
+#header {
+	background-color: rgb(243,17,19);
+	color: white;
+	font-size: 76;
+	text-align:center;
+	padding:40px;
+	opacity: 0.8;
+}
+
+table.leagueTable{
+	color: white;
+	float: left;
+	width: 20%;
+}
+a.fulltable {
+	color: red;
+}
+h1 {
+	color: white;
+	position: absolute;
+	left: 600px;
+	top: 600px;
+}
+
+#aboutus {
+	color: white;
+	position: absolute;
+	left: 300px;
+	top: 650px;
+}
+a.login {
+	float:right;
+	font-size:17;
+	color:white;
+	text-decoration:none;
+}
+a.signup {
+	float:right;
+	font-size:17;
+	color:white;
+	text-decoration:none;
+}
+#topstories {
+	float: right;
+}
+#top1 {
+	width:255px;
+	height:215px;
+}
+
+#top2 {
+	width:255px;
+	height:215px;
+}
+
+p.topstories {
+	font-size:27;
+	color: white;
+	background-color: rgb(243,17,19);
+	opacity: 0.8;
+	text-align: center;
+}
+p.topstory1 {
+	font-size:17;
+}
+a.topstory11 {
+	color:white;
+	text-decoration: none;
+}
+
+p.topstory2 {
+	font-size:17;
+}
+a.topstory12 {
+	color:white;
+	text-decoration: none;
+}
+#footer {
+	background-color:rgb(243,17,19);
+	color:white;
+	width:100%;
+	text-align:center;
+	padding:5px;
+	position:absolute;
+	top:850px;
+}
